@@ -1,0 +1,4 @@
+Dimensions:
+  width: 53 mm
+  height: 71 mm
+  (measured from the outline gerber and rounded up to the nearest mm)
