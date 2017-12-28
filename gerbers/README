@@ -1,0 +1,14 @@
+Contact:
+  Kier Davis <kierdavis@gmail.com>
+
+Files included:
+  motor.gml  Outline
+  motor.gtl  Top (layer 1) copper
+  motor.g1   Layer 2 copper
+  motor.g2   Layer 3 copper
+  motor.gbl  Bottom (layer 4) copper
+  motor.gts  Top solder mask
+  motor.gbs  Bottom solder mask
+  motor.gto  Top silk
+  motor.gbo  Bottom silk
+  motor.txt  Drill information
