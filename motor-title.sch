@@ -33,7 +33,7 @@ T 65400 42200 9 10 1 0 0 1 1
 Power (Reverse polarity protection, H-Bridges)
 T 40500 40500 9 50 1 0 0 0 2
 The full source of this design is available at:
-https://www.studentrobotics.org/git/boards/motor-v4-hw.git
+https://github.com/srobo/motor-v4-hw
 B 45500 54500 5000 2000 3 100 1 0 -1 -1 0 -1 -1 -1 -1 -1
 T 48000 55500 9 40 1 0 0 4 1
 USB ⇔ UART
