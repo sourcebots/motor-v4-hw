@@ -5000,6 +5000,20 @@ Element["" "FCI_10103592_sr.fp" "J1" "sr-cn-usb-micro-b" 46.0000mm 80.4000mm -0.
 	ElementLine [3.1200mm -0.4000mm 5.2000mm -0.4000mm 0.2000mm]
 
 	)
+
+Element["" "FIDUCIAL_sr.fp" "FID1" "unknown" 11.0000mm 73.0000mm -0.7500mm -0.9000mm 1 100 ""]
+(
+	ElementLine [0.0000 -0.5000mm 0.0000 0.5000mm 10.00mil]
+	ElementLine [-0.5000mm 0.0000 0.5000mm 0.0000 10.00mil]
+
+	)
+
+Element["" "FIDUCIAL_sr.fp" "FID2" "unknown" 55.6000mm 10.8000mm -2.6000mm 2.6000mm 1 100 ""]
+(
+	ElementLine [0.0000 -0.5000mm 0.0000 0.5000mm 10.00mil]
+	ElementLine [-0.5000mm 0.0000 0.5000mm 0.0000 10.00mil]
+
+	)
 Layer(1 "top")
 (
 	Line[34.0000mm 20.0500mm 34.0000mm 18.8500mm 0.2500mm 0.5000mm ""]

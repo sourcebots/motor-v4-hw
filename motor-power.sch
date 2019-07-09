@@ -1,4 +1,4 @@
-v 20121203 2
+v 20130925 2
 C 40000 40000 0 0 0 title-A1.sym
 T 66100 40800 9 30 1 0 0 0 1
 Motor Controller v4 - Power
@@ -1944,3 +1944,21 @@ N 65800 58100 66300 58100 4
 N 66300 58100 66300 56900 4
 T 70000 40400 9 10 1 0 0 0 1
 B
+C 41100 42200 1 0 0 fiducial-1.sym
+{
+T 41100 42900 5 10 0 0 0 0 1
+device=none
+T 41107 43300 5 10 0 0 0 0 1
+footprint=FIDUCIAL_sr.fp
+T 41107 42700 5 10 1 1 0 0 1
+refdes=FID1
+}
+C 41100 41200 1 0 0 fiducial-1.sym
+{
+T 41100 41900 5 10 0 0 0 0 1
+device=none
+T 41107 42300 5 10 0 0 0 0 1
+footprint=FIDUCIAL_sr.fp
+T 41107 41700 5 10 1 1 0 0 1
+refdes=FID2
+}
